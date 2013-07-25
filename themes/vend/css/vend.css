@@ -1,0 +1,161 @@
+/**
+ * @file
+ * VEND specific div's and their styling
+ */
+
+/* VEND Background */
+
+#vend-background-trunk{
+	background-image: url("../images/vend-background-trunk.jpg"); 
+	background-position: 0px 475px;
+	background-repeat: repeat-y; 
+	background-attachment:scroll;
+}
+
+#vend-background-top{
+	background-image: url("../images/vend-background-top.jpg"); 
+	background-position: 0px 0px;
+	background-repeat: no-repeat; 
+}
+
+/* VEND Elsewhere Box */
+
+#vend-elsewhere{
+	overflow:hidden;
+}
+
+#vend-elsewhere span {
+	display: block; 
+	width: 41px;
+	height: 44px;
+	background-image: url("../images/vend-elsewhere.png"); 
+	background-repeat: no-repeat; 
+}
+#vend-elsewhere #myspace {background-position: 0px 0px;} 
+#vend-elsewhere #facebook {background-position: -41px 0px;}
+#vend-elsewhere #twitter {background-position: -82px 0px;}
+#vend-elsewhere #youtube {background-position: -122px 0px;}
+#vend-elsewhere #spotify {background-position: -162px 0px; width: 43px;}
+
+/* VEND Header */
+
+#vend-header {
+	padding-top: 50px;
+	width: 100%;
+}
+
+#vend-header #vend-logo {
+	display: block; 
+	width: 223px;
+	height: 70px;
+	background-image: url("../images/vend-logo.png"); 
+	background-repeat: no-repeat; 
+	margin-left: 45%;
+}
+
+#vend-header #vend-player {
+	padding-top: 30px;
+	width: 180px;
+	height: 56px;
+	vertical-align:text-bottom;
+}
+
+.jw_playlist_playlist {
+	background-color:black;
+	/*background-image: url("../images/vend-background.jpg"); */
+}
+
+/* VEND Sidebar */
+
+.vend-sidebar {
+	width: 184px;
+	padding-top: 13px;
+	padding-right: 15px;
+	overflow: hidden;
+	color:#5E2C0A;
+}
+
+.vend-sidebar-heading {
+	padding-left: 15px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:11px;
+	letter-spacing: 1px;
+}
+
+.vend-sidebar-body {
+}
+
+.vend-sidebar-footer {
+	padding:0px 0px 0px 0px;
+}
+
+/* VEND Promotion */
+
+#vend-promotion {
+	background-image: url("../images/vend-paper-main.jpg"); 
+	background-position: -40px -20px;
+	background-repeat: repeat-y;
+}
+
+#vend-promotion #vend-promotion-footer {
+	width: 199px;
+	height: 10px;
+	background-image: url("../images/vend-horizontal-1.jpg"); 
+}
+
+#vend-promotion #vend-promotion-footer {
+	width: 199px;
+	height: 10px;
+	background-image: url("../images/vend-horizontal-1.jpg"); 
+}
+
+/* VEND Upcoming Events */
+
+#vend-upcoming-events {
+	background-image: url("../images/vend-paper-main.jpg"); 
+	background-position: -80px -60px;
+	background-repeat: repeat-y;
+}
+
+#vend-upcoming-events-footer {
+	width: 199px;
+	height: 10px;
+	padding-left:0px;
+	background-image: url("../images/vend-horizontal-2.jpg"); 
+}
+
+/* VEND Facebook Like Box */
+
+#vend-facebook {
+	width: 199px;
+	background-image: url("../images/vend-paper-main.jpg"); 
+	background-position: -80px -160px;
+	background-repeat: no-repeat;
+}
+
+/* VEND Photos */
+
+.vend-thumbnail {
+	margin-right: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+/* VEND Videos */
+
+.vend-video {
+	margin-top: 10px;
+}
+
+.vend-video-heading {
+	margin-top: 20px;
+}
+
+/* VEND Page Classes */
+
+.vend-page-title {
+	padding-top: 30px;
+}
+

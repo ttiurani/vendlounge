@@ -1,0 +1,93 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="vendlounge.com" encoding="utf8" >
+    <upload/>
+    <author>Timo Tiuraniemi</author>
+    <email>webmaster@vendlounge.com</email>
+    <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="css/" uploadstatus="1" />
+    <item url="css/block-editing.css" uploadstatus="1" />
+    <item url="css/block-editing-rtl.css" uploadstatus="1" />
+    <item url="css/blocks.css" uploadstatus="1" />
+    <item url="css/comments.css" uploadstatus="1" />
+    <item url="css/drupal6-reference.css" uploadstatus="1" />
+    <item url="css/fields.css" uploadstatus="1" />
+    <item url="css/forms.css" uploadstatus="1" />
+    <item url="css/forms-rtl.css" uploadstatus="1" />
+    <item url="css/html-reset.css" uploadstatus="1" />
+    <item url="css/html-reset-rtl.css" uploadstatus="1" />
+    <item url="css/ie6.css" uploadstatus="1" />
+    <item url="css/ie6-rtl.css" uploadstatus="1" />
+    <item url="css/ie.css" uploadstatus="1" />
+    <item url="css/layout-fixed.css" uploadstatus="1" />
+    <item url="css/layout-fixed-rtl.css" uploadstatus="1" />
+    <item url="css/layout-liquid.css" uploadstatus="1" />
+    <item url="css/layout-liquid-rtl.css" uploadstatus="1" />
+    <item url="css/messages.css" uploadstatus="1" />
+    <item url="css/messages-rtl.css" uploadstatus="1" />
+    <item url="css/navigation.css" uploadstatus="1" />
+    <item url="css/nodes.css" uploadstatus="1" />
+    <item url="css/page-backgrounds.css" uploadstatus="1" />
+    <item url="css/pages.css" uploadstatus="1" />
+    <item url="css/pages-rtl.css" uploadstatus="1" />
+    <item url="css/panels-styles.css" uploadstatus="1" />
+    <item url="css/print.css" uploadstatus="1" />
+    <item url="css/README.txt" uploadstatus="1" />
+    <item url="css/tabs.css" uploadstatus="1" />
+    <item url="css/tabs-rtl.css" uploadstatus="1" />
+    <item url="css/vend.css" uploadstatus="1" />
+    <item url="css/views-styles.css" uploadstatus="1" />
+    <item url="css/wireframes.css" uploadstatus="1" />
+    <item url="images/" uploadstatus="1" />
+    <item modified_time="0" url="images/messages-error-ie6.png" uploadstatus="1" />
+    <item url="images/messages-error.png" uploadstatus="1" />
+    <item url="images/messages-status-ie6.png" uploadstatus="1" />
+    <item url="images/messages-status.png" uploadstatus="1" />
+    <item url="images/messages-warning-ie6.png" uploadstatus="1" />
+    <item url="images/messages-warning.png" uploadstatus="1" />
+    <item url="images/tab-bar.png" uploadstatus="1" />
+    <item url="images/tab-left-ie6.png" uploadstatus="1" />
+    <item url="images/tab-left.png" uploadstatus="1" />
+    <item url="images/tab-right-ie6.png" uploadstatus="1" />
+    <item url="images/tab-right.png" uploadstatus="1" />
+    <item url="images/tab-secondary-bg.png" uploadstatus="1" />
+    <item url="images/tab-secondary.png" uploadstatus="1" />
+    <item url="images/vend-background.jpg" uploadstatus="1" />
+    <item url="images/vend-background-top.jpg" uploadstatus="1" />
+    <item url="images/vend-background-trunk.jpg" uploadstatus="1" />
+    <item url="images/vend-elsewhere.png" uploadstatus="1" />
+    <item modified_time="0" url="images/vend-logo.png" uploadstatus="1" />
+    <item url="images-source/" uploadstatus="1" />
+    <item url="images-source/messages.psd" uploadstatus="1" />
+    <item url="images-source/panels-layouts.psd" uploadstatus="1" />
+    <item url="images-source/screenshot.psd" uploadstatus="1" />
+    <item url="images-source/tabs.psd" uploadstatus="1" />
+    <item url="js/" uploadstatus="1" />
+    <item url="js/README.txt" uploadstatus="1" />
+    <item url="templates/" uploadstatus="1" />
+    <item url="templates/page.tpl.php" uploadstatus="1" />
+    <item url="templates/README.txt" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item url="favicon.ico" uploadstatus="1" />
+    <item url="logo.png" uploadstatus="1" />
+    <item url="README.txt" uploadstatus="1" />
+    <item url="screenshot.png" uploadstatus="1" />
+    <item url="template.php" uploadstatus="1" />
+    <item url="theme-settings.php" uploadstatus="1" />
+    <item url="vend.info" uploadstatus="1" />
+    <item url="vendlounge.com.session" uploadstatus="1" />
+    <item url="vendlounge.com.webprj" uploadstatus="1" />
+    <item url="images/vend-paper-main.jpg" uploadstatus="1" />
+    <item url="images/vend-paper-top.jpg" uploadstatus="1" />
+    <annotations/>
+    <item url="images/vend-horizontal-1.jpg" uploadstatus="1" />
+    <item url="images/vend-horizontal-2.jpg" uploadstatus="1" />
+    <item url="images/vend-mouseover.jpg" uploadstatus="1" />
+    <item url="images/vend-underline.jpg" uploadstatus="1" />
+    <item url="js/jquery.playlist.js" uploadstatus="1" />
+    <item url="css/playlist.css" uploadstatus="1" />
+  </project>
+</webproject>
